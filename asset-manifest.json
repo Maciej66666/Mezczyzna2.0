@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marriage2/static/css/main.98f0b790.css",
+    "main.js": "/marriage2/static/js/main.626dacce.js",
+    "static/js/453.1c334487.chunk.js": "/marriage2/static/js/453.1c334487.chunk.js",
+    "index.html": "/marriage2/index.html",
+    "main.98f0b790.css.map": "/marriage2/static/css/main.98f0b790.css.map",
+    "main.626dacce.js.map": "/marriage2/static/js/main.626dacce.js.map",
+    "453.1c334487.chunk.js.map": "/marriage2/static/js/453.1c334487.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98f0b790.css",
+    "static/js/main.626dacce.js"
+  ]
+}
